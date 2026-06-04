@@ -52,9 +52,7 @@ healthcare-analytics/
    coordination to reduce costs
 3. Create Self-Pay payment plans
    to improve revenue collection
-
-## 📸 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+## Dashboard 
 
 ## ⚙️ Setup Instructions
 1. Clone this repository
